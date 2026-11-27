@@ -1,23 +1,28 @@
-# Loan-Approval-Analysis
-Exploratory data analysis of loan application data using Python and Pandas. The objective is to serve as my introduction to data analysis before the start of my Masters in Data Science program, and to also develop practical analysis skills while investigating borrower characteristics and lending outcomes.
-Technologies
+Loan Approval Analysis
+Project Overview:
+Exploratory data analysis of 500 synthetic loan applications using Python. This project examines borrower financial characteristics and their relationships with loan approval outcomes
+
+Background & Motivation
+Combining a pending start to a masters of science in data science program, a bachelors in finance, and 7+ years of banking experience. This loan analysis projects connects to and builds on my extensive experience dealing with mortgage and auto loans.
+
+Technical Stack
 - Python
 - Pandas
 - Numpy
-- PyCharm
 
-Research Questions
-- What is the average applicant income
-- What is the average applicant credit score
-- What is the average loan amount
-- What is the average debt-to-income ratio
-- What is the average savings balance
+Research Objectives
+- Analyze borrower financial and credit characteristics
+- Examine debt-to-income and loan-to-value ratios
+- Prior delinquencies and savings balances
+- Evaluate relationships between borrower characteristics and loan approival
 
-Future Development
-- Statistical Analysis
-- Data Visualization
-- Correlation Analysis
-- Loan approval prediction using machine learning
+Development Roadmap
+  - Exploratory Data Analysis
+  - Data Cleaning & Preparation
+  - Descriptive and inferential Statistics
+  - Data Visualization
+  - Statistical & predictive modeling of choice
 
-  Project Status
-  - In early development. Currently developing foundational data exploration and statistical analysis capabilities using Python.
+
+Project Status:
+In development - Initial data exploration and descriptive statistics implemented using Pandas and Numpy
