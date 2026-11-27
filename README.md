@@ -6,6 +6,13 @@ Technologies
 - Numpy
 - PyCharm
 
+Research Questions
+- What is the average applicant income
+- What is the average applicant credit score
+- What is the average loan amount
+- What is the average debt-to-income ratio
+- What is the average savings balance
+
 Future Development
 - Statistical Analysis
 - Data Visualization
@@ -13,4 +20,4 @@ Future Development
 - Loan approval prediction using machine learning
 
   Project Status
-  - In early development
+  - In early development. Currently developing foundational data exploration and statistical analysis capabilities using Python.
