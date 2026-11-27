@@ -2,7 +2,7 @@ Loan Approval Analysis
 Project Overview:
 Exploratory data analysis of 500 synthetic loan applications using Python. This project examines borrower financial characteristics and their relationships with loan approval outcomes
 
-Background & Motivation
+Background & Motivation:
 Combining a pending start to a masters of science in data science program, a bachelors in finance, and 7+ years of banking experience. This loan analysis projects connects to and builds on my extensive experience dealing with mortgage and auto loans.
 
 Technical Stack
