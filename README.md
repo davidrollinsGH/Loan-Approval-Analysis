@@ -9,6 +9,10 @@ Technical Stack
 - Python
 - Pandas
 - Numpy
+- Matplotlib
+- Seaborn
+- Scipy
+- Scikit-learn
 
 Research Objectives
 - Analyze borrower financial and credit characteristics
