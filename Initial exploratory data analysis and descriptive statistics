@@ -1,0 +1,36 @@
+# Initial Libraries
+
+import numpy as np
+import pandas as pd
+
+# Import dataset
+df = pd.read_csv("LAA.csv")
+
+# Initial data exploration
+print(df.head())
+print(df.tail())
+print(df.shape)
+print(df.describe())
+print(df.isnull().sum())
+print(df.to_string())
+print(df.columns.tolist())
+
+# Descriptive analytics
+print("--- LOAN ANALYSIS ---")
+print("Average Annual Income:")
+print(df['annual_income'].mean())
+print("Average Credit Score")
+print(df['credit_score'].mean())
+print("Average Loan Amount:")
+print(df['loan_amount'].mean())
+print("Average Debt-to-Income Ratio:")
+print(df['debt_to_income_ratio_pct'].mean())
+print("Average Savings Balance")
+print(df['savings_balance'].mean())
+
+# Loan approval distribution
+print("Loan Approval Distribution:")
+print(df['loan_approved'].value_counts())
+# Approval percentage
+print("Approval Rate")
+print(df['loan_approved'].mean() * 100)
